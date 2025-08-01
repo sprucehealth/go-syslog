@@ -1,4 +1,4 @@
-module gopkg.in/mcuadros/go-syslog.v2
+module github.com/sprucehealth/go-syslog
 
 go 1.24
 
